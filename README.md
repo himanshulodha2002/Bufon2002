@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bufon2002, Himanshu Lodha
-- 👀 I’m interested in IoT, automation.
+- 👀 I’m interested in IoT, automation and I want to learn web development.
 - 🌱 I’m currently learning Java Script and polishing up on python.
 - 💞️ I’m looking to collaborate on Currently nothing.
 - 📫 How to reach me lodhahimanshu2002@gmail.com
