@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C/C++ and polishing up on python.
 - 💞️ I’m looking to collaborate on Currently nothing.
 - 🏆 I've been to World Robotics Olympiad 3 times.
-- 📫 How to reach me lodhahimanshu2002@gmail.com
+- 📫 To reach me lodhahimanshu2002@gmail.com
